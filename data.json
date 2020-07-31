@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "duc",
+      "password": "$2b$10$BVMazTLzXkcTEBcoZnEJN.5uYS9MVaMwK1sDyLsChgxYs4PhTpzQ.",
+      "refreshToken": "CjpNI2lOODOVQ0LPYFf4qhtoIiWKXoMlQvwdre3TzGuezJKdZNnC8kwaZ5aI3ziT3E71oOS0w28nXCl0nDpSrJtbPFXdZ83SPXEh"
+    },
+    {
+      "username": "test",
+      "password": "$2b$10$551S.jDXAX2/nQGB/Nh61emeFR8cknVQuiSlrWDclWo/ot0Xx1NfK",
+      "refreshToken": "9wcdH7sapVh19oTf6rODvAZcHQuOZyTdCq3qk2IKRnHzu31yitICzAWFuXHdlYvtvgeFUlr6Qu8Yf3hByaeCDXmg7tS22whx2Ua3"
+    }
+  ]
+}
